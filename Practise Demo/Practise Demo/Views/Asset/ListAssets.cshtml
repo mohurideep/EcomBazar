@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Practise_Demo.Models.Asset>
+
+@{
+    ViewData["Title"] = "ListAssets";
+}
+
+<h1>ListAssets</h1>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Tag Number
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.TagNumber
+            </td>
+            <td>
+            @Html.ActionLink("Edit", "EditAsset", new {  id=item.Id  }) |
+            @Html.ActionLink("Delete", "DeleteAsset", new { id=item.Id })
+        </td>
+        </tr>
+}
+    </tbody>
+</table>

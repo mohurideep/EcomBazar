@@ -1,0 +1,12 @@
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\bin\Debug\netcoreapp3.1\DemoDataAccess.deps.json
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\bin\Debug\netcoreapp3.1\DemoDataAccess.dll
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\bin\Debug\netcoreapp3.1\DemoDataAccess.pdb
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.AssemblyInfoInputs.cache
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.AssemblyInfo.cs
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.dll
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.pdb
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\bin\Debug\netcoreapp3.1\DemoDataAccess.runtimeconfig.json
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\bin\Debug\netcoreapp3.1\DemoDataAccess.runtimeconfig.dev.json
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.genruntimeconfig.cache
+C:\Users\deepd\source\repos\Practise Demo\DemoDataAccess\obj\Debug\netcoreapp3.1\DemoDataAccess.csprojAssemblyReference.cache
