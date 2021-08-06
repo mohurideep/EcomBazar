@@ -1,0 +1,17 @@
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Database.deps.json
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Database.runtimeconfig.json
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Database.runtimeconfig.dev.json
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Database.dll
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Database.pdb
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.csprojAssemblyReference.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.AssemblyInfoInputs.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.AssemblyInfo.cs
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.csproj.CoreCompileInputs.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.dll
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.pdb
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.genruntimeconfig.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Entity.dll
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Entity.pdb
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.csproj.CopyComplete
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.Migrations.initialized.resources
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.csproj.GenerateResource.cache

@@ -1,0 +1,9 @@
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\bin\Debug\netstandard2.0\EcomBazar.Entity.deps.json
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\bin\Debug\netstandard2.0\EcomBazar.Entity.dll
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\bin\Debug\netstandard2.0\EcomBazar.Entity.pdb
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\obj\Debug\netstandard2.0\EcomBazar.Entity.csprojAssemblyReference.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\obj\Debug\netstandard2.0\EcomBazar.Entity.AssemblyInfoInputs.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\obj\Debug\netstandard2.0\EcomBazar.Entity.AssemblyInfo.cs
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\obj\Debug\netstandard2.0\EcomBazar.Entity.csproj.CoreCompileInputs.cache
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\obj\Debug\netstandard2.0\EcomBazar.Entity.dll
+C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Entity\obj\Debug\netstandard2.0\EcomBazar.Entity.pdb

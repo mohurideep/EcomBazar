@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4U10ot6SmYnU2UoBaY15FImn+cWzUxP8xWHntXohLWqIlSUxVhkdM0MmbHV1tv1ZXWVqzyLtK8OCHaYH69oSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deepd\\source\\repos\\EcomBazar\\EcomBazar.Entity\\EcomBazar.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\deepd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

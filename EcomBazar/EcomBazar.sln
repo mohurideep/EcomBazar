@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomBazar.Web", "EcomBazar.Web\EcomBazar.Web.csproj", "{7CF08827-A2CD-4D0C-8B5F-4F42840988C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcomBazar.Web", "EcomBazar.Web\EcomBazar.Web.csproj", "{7CF08827-A2CD-4D0C-8B5F-4F42840988C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcomBazar.Entity", "EcomBazar.Entity\EcomBazar.Entity.csproj", "{C37A90F0-1D5F-4DF5-B7B4-CD4235CD80D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomBazar.Database", "EcomBazar.Database\EcomBazar.Database.csproj", "{453FFAC9-E278-4AF5-BE0F-0610CE1BCE72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{7CF08827-A2CD-4D0C-8B5F-4F42840988C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF08827-A2CD-4D0C-8B5F-4F42840988C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF08827-A2CD-4D0C-8B5F-4F42840988C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37A90F0-1D5F-4DF5-B7B4-CD4235CD80D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37A90F0-1D5F-4DF5-B7B4-CD4235CD80D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37A90F0-1D5F-4DF5-B7B4-CD4235CD80D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37A90F0-1D5F-4DF5-B7B4-CD4235CD80D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453FFAC9-E278-4AF5-BE0F-0610CE1BCE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453FFAC9-E278-4AF5-BE0F-0610CE1BCE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453FFAC9-E278-4AF5-BE0F-0610CE1BCE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453FFAC9-E278-4AF5-BE0F-0610CE1BCE72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
