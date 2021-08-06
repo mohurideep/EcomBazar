@@ -13,5 +13,3 @@ C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1
 C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Entity.dll
 C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\bin\Debug\netcoreapp3.1\EcomBazar.Entity.pdb
 C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.csproj.CopyComplete
-C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.Migrations.initialized.resources
-C:\Users\deepd\source\repos\EcomBazar\EcomBazar.Database\obj\Debug\netcoreapp3.1\EcomBazar.Database.csproj.GenerateResource.cache
